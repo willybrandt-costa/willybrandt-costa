@@ -5,8 +5,8 @@
 
 <img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
 
-### Hi  👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/keshavsingh4522)
-- 🏫 Sou o willy Brandt - CEO / CTO na GIR e na WBT
+### Olá 👋!
+- 🏫 Sou o Willy Brandt - CEO / CTO na GIR e na WBT
 - 🔭 Atualmente estou trabalhando como Gestor de Projetos de negócios e de softwares
 - 😐 Tenho uma relação de amor/ódio com a Programação
 - 🌱 Atualmente estou trabalhando com Métodologias Ágeis para a Gestão de Times e estruturação Comercial 
