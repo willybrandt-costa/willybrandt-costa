@@ -5,7 +5,8 @@
 
 <img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
 
-### Olá 👋
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
 - 🏫 Sou o Willy Brandt - CEO / CTO na GIR e na WBT
 - 🔭 Atualmente estou trabalhando como **Gestor de Projetos de negócios e de softwares**
 - 😐 Tenho uma relação de **amor/ódio** com a Programação
