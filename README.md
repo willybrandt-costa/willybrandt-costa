@@ -14,7 +14,7 @@
 - 💬 Pergunte-me sobre qualquer coisa, ficarei feliz em ajudar
 - 😄 Pronomes: desenrolado, líder, ágil e hiperativo
 - 💡 Sempre que possivél participo de Hackathons
-- 👨 Saiba mais sobre mim no [Linkedin](https://sourcerer.io/keshavsingh4522)
+- 👨 Saiba mais sobre mim no [Linkedin](https://www.linkedin.com/in/willybrandt/)
 - 🌐 Visite o meu [website](https://wbtic.com.br) para obter informações completas e contato.
 
 <!-- - 💥⚡ Linguagens que tenho afinidade: ** JS | SQL | HTML | PHP | CSS |** -->
