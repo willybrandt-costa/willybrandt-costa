@@ -19,11 +19,7 @@
 
 <!-- - 💥⚡ Linguagens que tenho afinidade: ** JS | SQL | HTML | PHP | CSS |** -->
 
-
-
-[![Spotify](https://novatoren-77tsrtit2-willy-brandt-costas-projects.vercel.app/api/spotify)](https://open.spotify.com/user/willybrandtleao)
-<br />
-
+icon-headset Ouvindo Spotfy
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=willybrandtleao&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 
