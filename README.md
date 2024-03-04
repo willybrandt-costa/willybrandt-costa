@@ -19,8 +19,9 @@
 
 <!-- - 💥⚡ Linguagens que tenho afinidade: ** JS | SQL | HTML | PHP | CSS |** -->
 
+[![Spotify](https://novatoren-77tsrtit2-willy-brandt-costas-projects.vercel.app/api/spotify)](https://open.spotify.com/user/willybrandtleao)
 <br />
 
-[![Spotify](https://novatoren-77tsrtit2-willy-brandt-costas-projects.vercel.app/api/spotify)](https://open.spotify.com/user/willybrandtleao)
+
 
 
