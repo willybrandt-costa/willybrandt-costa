@@ -19,6 +19,8 @@
 - 🌐 Visite o meu **[website](https://wbtic.com.br)** para obter informações completas e contato.
 - 💥⚡ Linguagens que tenho afinidade: **JS | SQL | HTML | PHP | CSS |**
 
+- ![Saksham's github stats](https://github-readme-stats.vercel.app/api?username=sakshamtaneja21&show_icons=true)
+
 <h1>🎧 **Ouvindo Spotfy** 🎧</h1>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=willybrandtleao&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
