@@ -6,7 +6,6 @@
 <img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
 
 ### Hi  👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/keshavsingh4522)
-- :school: I'm [Keshav Singh](https://keshavsingh4522.github.io/), have pursued B.Tech(CSE) from <a href="https://jecrcfoundation.com/">@JECRC  </a>
 - 🏫 Sou o willy Brandt - CEO / CTO na GIR e na WBT
 - 🔭 Atualmente estou trabalhando como Gestor de Projetos de negócios e de softwares
 - 😐 Tenho uma relação de amor/ódio com a Programação
