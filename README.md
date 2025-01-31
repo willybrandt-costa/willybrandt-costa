@@ -10,7 +10,7 @@
 - 🏫 Sou o Willy Brandt - CEO / CTO na GIR e na WBT
 - 🔭 Atualmente estou trabalhando como **Gestor de Projetos de negócios e de softwares**
 - 😐 Tenho uma relação de **amor/ódio** com a Programação
-- 🌱 Atualmente estou trabalhando com **Métodologias Ágeis para a Gestão de Equipes e Estruturação Comercial**
+- 🌱 Trabalho com **Métodologias Ágeis para a Gestão de Equipes e Estruturação Comercial**
 - 🤔 Sempre estou aberto a sugestões dentro do segmento de **Gestão de times e projetos**
 - 💬 Pergunte-me sobre qualquer coisa, **ficarei feliz em ajudar**
 - 😄 Pronomes: **desenrolado, líder, ágil e hiperativo**
